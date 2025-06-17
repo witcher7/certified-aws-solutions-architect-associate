@@ -3,7 +3,7 @@
 - It is a managed database service for relational databases
 - It allows us to create databases in the cloud that are managed by AWS
 - RDS offerings provided by AWS:
-    - PostreSQL
+    - PostgreSQL
     - MySQL
     - MariaDB
     - Oracle
